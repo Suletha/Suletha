@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suletha
 - 👀 I’m interested in Software Developement
-- 🌱 I’m currently learning DSA in python
+- 🌱 I’m currently learning DSA in python and HTML, CSS, and JS
 - 💞️ I’m looking for a job 
 - 📫 How to reach me ---suletha.gopi@gmail.com
 
